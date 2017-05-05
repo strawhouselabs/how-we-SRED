@@ -21,11 +21,11 @@ First, we imparted some experience on the team with examples of what makes a goo
 - e.g., a automated system for identifying some core variable to business could be experimental.
 - e.g., testing different algorithms for performing some task in an adequate amount of time.
 
-Then, we set up the service [IFTTT](http://ifttt.com/) to post once per day in our developer Slack channel asking the staff to each complete a "daily work uncertainty report." 
+Then, we set up the service [IFTTT](http://ifttt.com/) to post once per day in our developer Slack channel asking the staff to each complete a "daily work uncertainty report." The configuration and integration is simple and can be done by anyone. This post links off to a [Google Form](https://docs.google.com/forms/u/0/).
 
 ![IFTTT Configuration](https://d2ppvlu71ri8gs.cloudfront.net/items/1H0L081A2i0a1w222m2E/Screen%20Shot%202017-05-04%20at%204.31.56%20PM.png?v=14c02386)
 
-The configuration and integration is simple and can be done by anyone. This post links off to a [Google Form](https://docs.google.com/forms/u/0/), which provides just two questions:
+Our Google Form asks just two questions:
 1. "What project did you work on today?" 
 2. "Describe any experiments, difficulties or uncertainties you ran in to on that project." 
 
