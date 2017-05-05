@@ -28,6 +28,7 @@ Then, we set up the service [IFTTT](http://ifttt.com/) to post once per day in o
 The configuration and integration is simple and can be done by anyone. This post links off to a [Google Form](https://docs.google.com/forms/u/0/), which provides just two questions:
 1. "What project did you work on today?" 
 2. "Describe any experiments, difficulties or uncertainties you ran in to on that project." 
+
 For context, the five conditions necessary for work to be SR&ED, are provided right alongside these questions.
 
 1. Was there a scientific or a technological uncertainty?
